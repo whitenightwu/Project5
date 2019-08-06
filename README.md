@@ -13,6 +13,7 @@ project5 is about 'Vehicle-Detection', 'license-plate-detection' and 'license-pl
 
 ## Vehicle-Car-detection-and-multilabel-classification
 (https://github.com/CaptainEven/Vehicle-Car-detection-and-multilabel-classification.git)
+(https://github.com/whitenightwu/Project5-Vehicle-Car-detection-and-multilabel-classification.git)
 YOLO_v3_tiny
 **it has multilabel-classification of license-plate**
 
@@ -30,6 +31,7 @@ like above github, but so easy to learn.
 
 ## vehicle-detection
 (https://github.com/tatsuyah/vehicle-detection.git)
+(https://github.com/whitenightwu/Project5-vehicle-detection.git)
 HOG+SVM
 
 -------
